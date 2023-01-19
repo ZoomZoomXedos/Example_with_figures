@@ -1,0 +1,6 @@
+This program create various figures and shapes.
+On run, you should solve, what figure will be drawed.
+If you want create circle, you should input number 3 and then, input radius of circle
+If you want create regular figure, you should input number 2 and then input count of angle of figure and size of facet.
+If you want create any other figure, you should input number 1 and then you should input some coordinates of points of yours polygone.
+At New Window Will be create your figure.
